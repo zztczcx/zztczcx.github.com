@@ -26,13 +26,13 @@ Git下的文件有三种主要的状态：committed，modified和staged。
 the git config --list command to list all the settings Git can find at that point:
 
 ``$ git config --list
--user.name=Scott Chacon
--user.email=schacon@gmail.com
--color.status=auto
--color.branch=auto
--color.interactive=auto
--color.diff=auto
--...``
+    user.name=Scott Chacon
+    user.email=schacon@gmail.com
+    color.status=auto
+    color.branch=auto
+    color.interactive=auto
+    color.diff=auto
+    ...``
 
 ###Initializing a Repository in an Existing Directory###
 
