@@ -2,8 +2,8 @@
 layout: post
 title: "Pro Git Notes"
 description: ""
-category:Git
-tags: [git]
+category:
+tags: []
 ---
 {% include JB/setup %}
 
