@@ -1,0 +1,32 @@
+#love{
+	height: 74px;
+    left: 464px;
+    position: absolute;
+    top: 202px;
+    width: 473px;
+    z-index: 1;
+}
+.louis_louise{
+font-size:22px;
+font-family: "Courier New",Courier,monospace;
+}
+.one_life{
+	font-size: 12px;
+	font-family: "Courier New", Courier, monospace;
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:2;
+	left: 476px;
+	top: 270px;
+}
+a:link,a:visited,a:hover{
+color:#000000;
+text-decoration:none;
+}
+a:active {
+	text-decoration: none;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #999;
+}
+
